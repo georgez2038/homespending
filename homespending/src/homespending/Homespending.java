@@ -15,7 +15,8 @@ public class Homespending {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("hello world!\n");
-		System.out.print("This is second commit!");
+		System.out.println("This is second commit!");
+		System.out.print("This is third commit!");
 	}
 
 }
